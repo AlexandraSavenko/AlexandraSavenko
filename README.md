@@ -38,7 +38,7 @@
       </div>
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alexandrasavenko&" alt="alexandrasavenko" /></p>
+
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alexandrasavenko&show_icons=true&locale=en" alt="alexandrasavenko" /></p>
 
