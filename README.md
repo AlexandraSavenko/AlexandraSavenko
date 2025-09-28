@@ -49,3 +49,6 @@
 <span align="left">
 <a href="https://t.me/AlexsandraSavenko" target="blank"><img align="center" src="https://raw.githubusercontent.com/AlexandraSavenko/AlexandraSavenko/f4c3a57f6fd121acf6a743b83c038ba7b4d569b6/telegram-svgrepo-com.svg" alt="link to my telegram" height="30" width="40" /></a>
 </span>
+<span align="left">
+<a href="sashasavenko3@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/AlexandraSavenko/AlexandraSavenko/309e1fcac8a6840e9aece46c8c3d21046fac2efc/gmail-svgrepo-com.svg" alt="my mail" height="30" width="40" /></a>
+</span>
