@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Alexandra Savenko</h1>
 <h3 align="center">I'm a React developer</h3>
-![My bages](./MyAchievements.png)
+<img src="https://drive.google.com/file/d/1cLfvIZvEjkzpGXSN9l1KjStNeIdgt59R/view?usp=sharing" alt="my bages" />
 <h3 align="left">Languages and Tools:</h3>
 <div>
 <span>Languages:</span>
