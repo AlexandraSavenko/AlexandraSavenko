@@ -47,5 +47,5 @@
 <a href="https://linkedin.com/in/http://www.linkedin.com/in/sasha-savenko" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="http://www.linkedin.com/in/sasha-savenko" height="30" width="40" /></a>
 </span>
 <span align="left">
-<a href="https://t.me/AlexsandraSavenko" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="link to my telegram" height="30" width="40" /></a>
+<a href="https://t.me/AlexsandraSavenko" target="blank"><img align="center" src="https://raw.githubusercontent.com/AlexandraSavenko/AlexandraSavenko/f4c3a57f6fd121acf6a743b83c038ba7b4d569b6/telegram-svgrepo-com.svg" alt="link to my telegram" height="30" width="40" /></a>
 </span>
