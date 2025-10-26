@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alexandra Savenko</h1>
 <h3 align="center">I'm a React developer</h3>
-<img src="https://github.com/AlexandraSavenko/AlexandraSavenko/blob/main/MyAchievements.png?raw=true" alt="my bages" />
 <h3 align="left">Languages and Tools:</h3>
 <div>
 <span>Languages:</span>
