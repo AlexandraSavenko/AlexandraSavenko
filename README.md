@@ -2,7 +2,8 @@
 <h3 align="center">I'm a React developer</h3>
 <h3 align="left">Languages and Tools:</h3>
 <div>
-<span>Languages:</span>
+🧰 Tech Stack:
+<span>Programming languages:</span>
  <span>
     <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>  
@@ -35,11 +36,17 @@
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
   </span>
       </div>
+💻Featured Projects:
 
+-[Testeorama](https://github.com/AlexandraSavenko/cavabanga-fe) -- is a modern web application for saving, searching, and sharing culinary recipes.
+It was created for those who love to cook and share their flavors with others.
 
+🗣️ Languages:
+![English](https://img.shields.io/badge/English-B2-blue?style=flat-square)
 
+![Ukrainian](https://img.shields.io/badge/Ukrainian-Native-yellow?style=flat-square)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alexandrasavenko&show_icons=true&locale=en" alt="alexandrasavenko" /></p>
+![Polish](https://img.shields.io/badge/Polish-A2-lightgrey?style=flat-square)
 
 <span align="left">Connect with me:</span>
 <span align="left">
@@ -51,3 +58,7 @@
 <span align="left">
 <a href="mailto:sashasavenko3@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/AlexandraSavenko/AlexandraSavenko/309e1fcac8a6840e9aece46c8c3d21046fac2efc/gmail-svgrepo-com.svg" alt="my mail" height="30" width="40" /></a>
 </span>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alexandrasavenko&show_icons=true&locale=en" alt="alexandrasavenko" /></p>
+
+
